@@ -11,8 +11,7 @@ Here are some screenshots of the project:
 ### Screenshot 2
 ![Screenshot 2](screenshots/screenshot2.png)
 
-### Screenshot 3
-![Screenshot 3](screenshots/screenshot3.png)
+
 
 ## 📜 Files in this Repository
 - **`main.tf`** - Terraform configuration for AKS deployment.
